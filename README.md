@@ -2,7 +2,7 @@
 - 👀 I’m interested in Electronics, Programming and Computer Graphics
 - 🌱 I’m currently learning Unix, C and C++
 
-<!--- 💞️ I’m looking to collaborate on ...--->
+<!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
 
